@@ -1,0 +1,6 @@
+C:\Users\iandr\OneDrive\RepositorioGIT\C#\MIPrimerProgramaCSharp\MIPrimerProgramaCSharp\bin\Debug\MIPrimerProgramaCSharp.exe.config
+C:\Users\iandr\OneDrive\RepositorioGIT\C#\MIPrimerProgramaCSharp\MIPrimerProgramaCSharp\bin\Debug\MIPrimerProgramaCSharp.exe
+C:\Users\iandr\OneDrive\RepositorioGIT\C#\MIPrimerProgramaCSharp\MIPrimerProgramaCSharp\bin\Debug\MIPrimerProgramaCSharp.pdb
+C:\Users\iandr\OneDrive\RepositorioGIT\C#\MIPrimerProgramaCSharp\MIPrimerProgramaCSharp\obj\Debug\MIPrimerProgramaCSharp.csprojResolveAssemblyReference.cache
+C:\Users\iandr\OneDrive\RepositorioGIT\C#\MIPrimerProgramaCSharp\MIPrimerProgramaCSharp\obj\Debug\MIPrimerProgramaCSharp.exe
+C:\Users\iandr\OneDrive\RepositorioGIT\C#\MIPrimerProgramaCSharp\MIPrimerProgramaCSharp\obj\Debug\MIPrimerProgramaCSharp.pdb
