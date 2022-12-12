@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MIPrimerProgramaCSharp._14_OperadoresRelacionales</StartupObject>
+    <StartupObject>MIPrimerProgramaCSharp._18_CadenaSubString</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,6 +53,10 @@
     <Compile Include="_12_OperadorLogicoOR.cs" />
     <Compile Include="_13_OperadorLogicoNOT.cs" />
     <Compile Include="_14_OperadoresRelacionales.cs" />
+    <Compile Include="_15_CadenasUpperLower.cs" />
+    <Compile Include="_16_CadenaConcatFormat.cs" />
+    <Compile Include="_17_CadenaEqualEndStarWhit.cs" />
+    <Compile Include="_18_CadenaSubString.cs" />
     <Compile Include="_1_MostrarInfoPantalla.cs" />
     <Compile Include="_2_AnadirTextVaria.cs" />
     <Compile Include="_3_ReadLineCapturarTexto.cs" />

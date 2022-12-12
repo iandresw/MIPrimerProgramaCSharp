@@ -2,7 +2,7 @@
 
 namespace MIPrimerProgramaCSharp
 {
-    class MostarInfoPantalla
+    class _1_MostrarInfoPantalla
     {
         static void Main(string[] args)
         {
