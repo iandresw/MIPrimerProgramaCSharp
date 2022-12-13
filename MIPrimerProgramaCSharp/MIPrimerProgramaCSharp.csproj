@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MIPrimerProgramaCSharp.Objetivos6._30_SetenciaSwitch</StartupObject>
+    <StartupObject>MIPrimerProgramaCSharp.Objetivos7._41_BuclesForEachDiccionario</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -58,6 +58,16 @@
     <Compile Include="Objetivos6\_29_SentenciaIfAnidada.cs" />
     <Compile Include="Objetivos6\_30_SetenciaSwitch.cs" />
     <Compile Include="Objetivos6\_31_SentenciaIFSwitch.cs" />
+    <Compile Include="Objetivos7\_32_BuclesWhile.cs" />
+    <Compile Include="Objetivos7\_33_BuclesWhile2.cs" />
+    <Compile Include="Objetivos7\_34_BucleFor.cs" />
+    <Compile Include="Objetivos7\_35_BuclesDo.cs" />
+    <Compile Include="Objetivos7\_36_BuclesForAnidados.cs" />
+    <Compile Include="Objetivos7\_37_BuclesAnidadosWhileYFor.cs" />
+    <Compile Include="Objetivos7\_38_BuclesWhileAnidados.cs" />
+    <Compile Include="Objetivos7\_39_BuclesForEach.cs" />
+    <Compile Include="Objetivos7\_40_BuclesForEachCadena.cs" />
+    <Compile Include="Objetivos7\_41_BuclesForEachDiccionario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Objetivos3\_10_Booleanos.cs" />
     <Compile Include="Objetivos3\_11_OperadorLogicoAND.cs" />
