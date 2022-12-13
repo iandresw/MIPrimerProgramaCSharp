@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace MIPrimerProgramaCSharp
+namespace MIPrimerProgramaCSharp.Objetivos4
 {
     class _18_CadenaSubString
     {

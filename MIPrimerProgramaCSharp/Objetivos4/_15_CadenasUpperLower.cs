@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MIPrimerProgramaCSharp
+namespace MIPrimerProgramaCSharp.Objetivos4
 {
     class _15_CadenasUpperLower
     {

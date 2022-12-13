@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MIPrimerProgramaCSharp
+namespace MIPrimerProgramaCSharp.Objetivos1
 {
     class _1_MostrarInfoPantalla
     {

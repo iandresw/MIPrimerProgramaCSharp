@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MIPrimerProgramaCSharp._18_CadenaSubString</StartupObject>
+    <StartupObject>MIPrimerProgramaCSharp.Objetivos5._26_Diccionario</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,30 +46,39 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Objetivos1\Program.cs" />
+    <Compile Include="Objetivos5\_22_Listas2.cs" />
+    <Compile Include="Objetivos5\_23_ListasAddInsert.cs" />
+    <Compile Include="Objetivos5\_24_ListaMetodos.cs" />
+    <Compile Include="Objetivos5\_25_ListasEnListas.cs" />
+    <Compile Include="Objetivos5\_26_Diccionario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="_10_Booleanos.cs" />
-    <Compile Include="_11_OperadorLogicoAND.cs" />
-    <Compile Include="_12_OperadorLogicoOR.cs" />
-    <Compile Include="_13_OperadorLogicoNOT.cs" />
-    <Compile Include="_14_OperadoresRelacionales.cs" />
-    <Compile Include="_15_CadenasUpperLower.cs" />
-    <Compile Include="_16_CadenaConcatFormat.cs" />
-    <Compile Include="_17_CadenaEqualEndStarWhit.cs" />
-    <Compile Include="_18_CadenaSubString.cs" />
-    <Compile Include="_1_MostrarInfoPantalla.cs" />
-    <Compile Include="_2_AnadirTextVaria.cs" />
-    <Compile Include="_3_ReadLineCapturarTexto.cs" />
-    <Compile Include="_4_SumaVariables.cs" />
-    <Compile Include="_5_MultiplicacionVariables.cs" />
-    <Compile Include="_6_RestaVariable.cs" />
-    <Compile Include="_7_DivicionVariables.cs" />
-    <Compile Include="_8_ModuloVariables.cs" />
-    <Compile Include="_9_ParentesisOperaciones.cs" />
+    <Compile Include="Objetivos3\_10_Booleanos.cs" />
+    <Compile Include="Objetivos3\_11_OperadorLogicoAND.cs" />
+    <Compile Include="Objetivos3\_12_OperadorLogicoOR.cs" />
+    <Compile Include="Objetivos3\_13_OperadorLogicoNOT.cs" />
+    <Compile Include="Objetivos3\_14_OperadoresRelacionales.cs" />
+    <Compile Include="Objetivos4\_15_CadenasUpperLower.cs" />
+    <Compile Include="Objetivos4\_16_CadenaConcatFormat.cs" />
+    <Compile Include="Objetivos4\_17_CadenaEqualEndStarWhit.cs" />
+    <Compile Include="Objetivos4\_18_CadenaSubString.cs" />
+    <Compile Include="Objetivos5\_19_Arrays.cs" />
+    <Compile Include="Objetivos1\_1_MostrarInfoPantalla.cs" />
+    <Compile Include="Objetivos5\_20_ArraysMetodos.cs" />
+    <Compile Include="Objetivos5\_21_Listas.cs" />
+    <Compile Include="Objetivos2\_2_AnadirTextVaria.cs" />
+    <Compile Include="Objetivos2\_3_ReadLineCapturarTexto.cs" />
+    <Compile Include="Objetivos3\_4_SumaVariables.cs" />
+    <Compile Include="Objetivos3\_5_MultiplicacionVariables.cs" />
+    <Compile Include="Objetivos3\_6_RestaVariable.cs" />
+    <Compile Include="Objetivos3\_7_DivicionVariables.cs" />
+    <Compile Include="Objetivos3\_8_ModuloVariables.cs" />
+    <Compile Include="Objetivos3\_9_ParentesisOperaciones.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

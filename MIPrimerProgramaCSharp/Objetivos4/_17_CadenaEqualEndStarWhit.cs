@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MIPrimerProgramaCSharp
+namespace MIPrimerProgramaCSharp.Objetivos4
 {
     class _17_CadenaEqualEndStarWhit
     {

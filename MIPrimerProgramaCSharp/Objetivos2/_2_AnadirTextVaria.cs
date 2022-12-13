@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace MIPrimerProgramaCSharp
+namespace MIPrimerProgramaCSharp.Objetivos2
 {
     class _2_AnadirTextVaria
     {

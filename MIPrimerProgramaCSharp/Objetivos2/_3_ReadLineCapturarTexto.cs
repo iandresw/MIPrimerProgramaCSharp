@@ -1,8 +1,9 @@
 ﻿using System;
 
 
-namespace MIPrimerProgramaCSharp
+namespace MIPrimerProgramaCSharp.Objetivos2
 {
+
     class _3_ReadLineCapturarTexto
     {
         static void Main(string[] args)

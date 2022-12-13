@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace MIPrimerProgramaCSharp
+namespace MIPrimerProgramaCSharp.Objetivos3
 {
     class _9_ParentesisOperaciones
     {
