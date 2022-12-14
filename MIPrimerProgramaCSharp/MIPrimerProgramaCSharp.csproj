@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MIPrimerProgramaCSharp.Objetivos8._45_FuncionesAnidadas</StartupObject>
+    <StartupObject>MIPrimerProgramaCSharp.ProyectoObj_8.CalculadoraEvolutiva</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -95,6 +95,7 @@
     <Compile Include="Objetivos3\_8_ModuloVariables.cs" />
     <Compile Include="Objetivos3\_9_ParentesisOperaciones.cs" />
     <Compile Include="ProyectoObj_1-7\Calculadora.cs" />
+    <Compile Include="ProyectoObj_8\CalculadoraEvolutiva.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
