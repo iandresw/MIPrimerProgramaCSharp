@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MIPrimerProgramaCSharp.Objetivos7._41_BuclesForEachDiccionario</StartupObject>
+    <StartupObject>MIPrimerProgramaCSharp.ProyectoObj_1_7.Calculadora</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -90,6 +90,7 @@
     <Compile Include="Objetivos3\_7_DivicionVariables.cs" />
     <Compile Include="Objetivos3\_8_ModuloVariables.cs" />
     <Compile Include="Objetivos3\_9_ParentesisOperaciones.cs" />
+    <Compile Include="ProyectoObj_1-7\Calculadora.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
