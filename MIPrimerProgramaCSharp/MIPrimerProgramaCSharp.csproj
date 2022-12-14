@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MIPrimerProgramaCSharp.Objetivos9.programa</StartupObject>
+    <StartupObject>MIPrimerProgramaCSharp.ProyectoObj_9.Programa</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -102,6 +102,10 @@
     <Compile Include="Objetivos3\_9_ParentesisOperaciones.cs" />
     <Compile Include="ProyectoObj_1-7\Calculadora.cs" />
     <Compile Include="ProyectoObj_8\CalculadoraEvolutiva.cs" />
+    <Compile Include="ProyectoObj_9\Autor.cs" />
+    <Compile Include="ProyectoObj_9\Biblioteca.cs" />
+    <Compile Include="ProyectoObj_9\Libro.cs" />
+    <Compile Include="ProyectoObj_9\Programa.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
