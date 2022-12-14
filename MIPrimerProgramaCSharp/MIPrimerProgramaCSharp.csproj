@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MIPrimerProgramaCSharp.ProyectoObj_8.CalculadoraEvolutiva</StartupObject>
+    <StartupObject>MIPrimerProgramaCSharp.Objetivos9.programa</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -72,6 +72,12 @@
     <Compile Include="Objetivos8\_43_FuncionEsMayorQueCero.cs" />
     <Compile Include="Objetivos8\_44_FuncionSuma.cs" />
     <Compile Include="Objetivos8\_45_FuncionesAnidadas.cs" />
+    <Compile Include="Objetivos9\programa.cs" />
+    <Compile Include="Objetivos9\_46_Punto.cs" />
+    <Compile Include="Objetivos9\_47_Punto2.cs" />
+    <Compile Include="Objetivos9\_48_AtributosPublicos.cs" />
+    <Compile Include="Objetivos9\_49_Punto3.cs" />
+    <Compile Include="Objetivos9\_50_Triangulo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Objetivos3\_10_Booleanos.cs" />
     <Compile Include="Objetivos3\_11_OperadorLogicoAND.cs" />
