@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MIPrimerProgramaCSharp.Objetivos11.TryCatch</StartupObject>
+    <StartupObject>MIPrimerProgramaCSharp.ProyectoObj_10_11.CalculadoraEvolutiva2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -111,6 +111,7 @@
     <Compile Include="Objetivos3\_8_ModuloVariables.cs" />
     <Compile Include="Objetivos3\_9_ParentesisOperaciones.cs" />
     <Compile Include="ProyectoObj_1-7\Calculadora.cs" />
+    <Compile Include="ProyectoObj_10-11\CalculadoraEvolutiva2.cs" />
     <Compile Include="ProyectoObj_8\CalculadoraEvolutiva.cs" />
     <Compile Include="ProyectoObj_9\Autor.cs" />
     <Compile Include="ProyectoObj_9\Biblioteca.cs" />
