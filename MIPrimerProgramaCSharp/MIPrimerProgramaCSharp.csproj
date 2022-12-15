@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MIPrimerProgramaCSharp.Objetivos10.Fase_2_Polimorfismo.Programa</StartupObject>
+    <StartupObject>MIPrimerProgramaCSharp.Objetivos11.TryCatch</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -55,6 +55,8 @@
     <Compile Include="Objetivos10\Fase 2 Polimorfismo\Negocio.cs" />
     <Compile Include="Objetivos10\Fase 2 Polimorfismo\Programa.cs" />
     <Compile Include="Objetivos10\Fase 2 Polimorfismo\Restaurante.cs" />
+    <Compile Include="Objetivos11\ControlandoExcepcionescs.cs" />
+    <Compile Include="Objetivos11\TryCatch.cs" />
     <Compile Include="Objetivos1\Program.cs" />
     <Compile Include="Objetivos5\_22_Listas2.cs" />
     <Compile Include="Objetivos5\_23_ListasAddInsert.cs" />
@@ -118,9 +120,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Objetivos11\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
