@@ -1,0 +1,5 @@
+Linea 1 del fichero
+Linea 2 del fichero
+Linea 3 del fichero
+Linea 4 del fichero
+Linea 5 del fichero

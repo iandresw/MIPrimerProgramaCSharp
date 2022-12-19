@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MIPrimerProgramaCSharp.ProyectoObj_10_11.CalculadoraEvolutiva2</StartupObject>
+    <StartupObject>MIPrimerProgramaCSharp.Objetivos12.FicherosEscribirEnTXT</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -57,6 +57,9 @@
     <Compile Include="Objetivos10\Fase 2 Polimorfismo\Restaurante.cs" />
     <Compile Include="Objetivos11\ControlandoExcepcionescs.cs" />
     <Compile Include="Objetivos11\TryCatch.cs" />
+    <Compile Include="Objetivos12\Fichero2.cs" />
+    <Compile Include="Objetivos12\FicherosEscribirEnTXT.cs" />
+    <Compile Include="Objetivos12\FicherosStreamReader.cs" />
     <Compile Include="Objetivos1\Program.cs" />
     <Compile Include="Objetivos5\_22_Listas2.cs" />
     <Compile Include="Objetivos5\_23_ListasAddInsert.cs" />
