@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MIPrimerProgramaCSharp.Objetivos12.FicherosEscribirEnTXT</StartupObject>
+    <StartupObject>MIPrimerProgramaCSharp.ProyectoFinal.Programa</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -113,6 +113,12 @@
     <Compile Include="Objetivos3\_7_DivicionVariables.cs" />
     <Compile Include="Objetivos3\_8_ModuloVariables.cs" />
     <Compile Include="Objetivos3\_9_ParentesisOperaciones.cs" />
+    <Compile Include="ProyectoFinal\Agenda.cs" />
+    <Compile Include="ProyectoFinal\Contacto.cs" />
+    <Compile Include="ProyectoFinal\Direccion.cs" />
+    <Compile Include="ProyectoFinal\Persona.cs" />
+    <Compile Include="ProyectoFinal\Programa.cs" />
+    <Compile Include="ProyectoFinal\Telefono.cs" />
     <Compile Include="ProyectoObj_1-7\Calculadora.cs" />
     <Compile Include="ProyectoObj_10-11\CalculadoraEvolutiva2.cs" />
     <Compile Include="ProyectoObj_8\CalculadoraEvolutiva.cs" />
