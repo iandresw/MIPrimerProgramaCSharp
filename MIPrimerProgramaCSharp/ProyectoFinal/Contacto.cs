@@ -68,14 +68,10 @@ namespace MIPrimerProgramaCSharp.ProyectoFinal
         {
             direccion.SetCodigoPostal(codigoPostal);
         }
-
-
         public string GetNombre()
         {
             return persona.GetNombre();
         }
-
-
         public string GetApellido( )
         {
             return persona.GetApellido();
